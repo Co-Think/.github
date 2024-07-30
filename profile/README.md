@@ -52,7 +52,7 @@ Mostly a collaborative issue tracker targetting local-first mindset of solving i
 - Anyone raises an issue, and other members add the related information such as concerned organisations, authorities, processes, contact process, legal steps etc.
 - The issue evolves and becomes a well structured wiki and guide.
 - Members can also add local project ideas and brainstorm on it.
-- Eventually a lot of things such as basic information enhancemenmt on the topics can be automated with AI.
+- Eventually a lot of things such as basic information enhancement on the topics can be automated with AI.
 
 A customer experience will look like that -
 - I live in Bellandur, Bangalore. I open the app, I see the top 5 issues reported by community members.
