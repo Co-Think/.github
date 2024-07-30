@@ -46,7 +46,7 @@ The decisions of what needs to be prioritized should be within the hands of the 
 
 "Knowledge is power" - it is not entirely true but it is definitely not entirely false. 1% of members talking about a problem vs 10% of members talking about a problem makes a huge difference on the drive for its solution. VOC system will bring awareness and transparency for each problem in the community to each community member, putting a decentralised accountability enforcement on the governing system.
 
-## What is this platform supposed to be?
+## What is this Github repository supposed to be?
 Mostly a collaborative issue tracker targetting local-first mindset of solving issues for your local community before anything else. The extent of this is raising issues and enriching them with the right information till it can start causing real-world improvement. The north star goal for this is something like this -
 - An app where you all users are registered with their national ID, this will encourage authenticity and discourage spamming.
 - Anyone raises an issue, and other members add the related information such as concerned organisations, authorities, processes, contact process, legal steps etc.
@@ -61,6 +61,8 @@ A customer experience will look like that -
 
 For now, the fastest way to check this is to use a simple, free and version-controlled issue-tracker where large number of people can collaborate.
 - Github is one such option. If the traction is good and this actually turns out to be helpful for people, we will plan a proper app.
-- While some evolved / archived issues will be converted from issues to proper guides and stored in the repository, that is not the primary purpose,  
+- While some evolved / archived issues will be converted from issues to proper guides and stored in the repository, that is not the primary purpose of this. The primary purpose is for people to be able to raise issues that can be discussed and evolved.
+
+### Use [[Bangalore repo]](https://github.com/Co-Think/bangalore/issues) to see and discuss Bangalore related issues.
 
 ---
