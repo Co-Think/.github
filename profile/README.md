@@ -1,12 +1,10 @@
-# 1. Proposal
-
-### Problem Statement
+## Problem Statement
 
 As a citizen of local community, I encounter or hear about one or more problems in my community on a day to day basis via my daily chores. Just being aware of the problem makes me eligible to talk about it with others and if I am at a priviledged position of having knowledge or power in the governing system of the community, then I am even more eligible to discuss the problem and come up with suggestions on solving this.
 
 In reality, an average citizen keeps the problems in his/her conversations only which never turn into an initiative for solving it. This is a huge loss of massive knowledge and what can be a community-driven, community-owned accountability. This loss, if prevented and captured, can bring a lot of order and removal of corruption into the system.
 
-### How does community contribute to the problem
+## How does community contribute to the problem
 
 TLDR; - **By not participating.**
 
